@@ -1,0 +1,3 @@
+[submodule "external/project_1_uber_vs_weather"]
+	path = external/project_1_uber_vs_weather
+	url = https://github.com/erikayi/project_1_uber_vs_weather.git
